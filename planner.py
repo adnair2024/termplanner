@@ -2,7 +2,7 @@
 Author: Ashwin Nair
 Date: 2025-09-06
 Project name: planner.py
-Summary: Enter summary here.
+Summary: A daily planner built with curses, SQLite, and python.
 """
 
 import curses
