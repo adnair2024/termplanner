@@ -37,5 +37,5 @@ Easily add, track, filter, and complete todos — all in your terminal with a cl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourname/daily-planner.git
+   git clone https://github.com/adnair2024/termplanner.git
    cd daily-planner
