@@ -4,6 +4,7 @@ A lightweight **terminal-based daily planner** built with Python, SQLite, and Cu
 Easily add, track, filter, and complete todos — all in your terminal with a clean TUI.
 
 ---
+<img width="840" height="433" alt="Screenshot 2025-09-06 at 8 26 38 PM" src="https://github.com/user-attachments/assets/cff1a749-f794-4094-8076-31c2a52c8428" />
 
 ## ✨ Features
 - **Todos with tags & due dates**
